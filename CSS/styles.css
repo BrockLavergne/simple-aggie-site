@@ -1,0 +1,52 @@
+
+body{
+    background-color: rgb(199, 196, 196);
+    color: maroon;
+    text-align: center;
+
+}
+
+img{
+    width: 400px;
+}
+
+main{
+    margin-top: 50px;
+    
+}
+
+#facts-section table{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#facts-section h2{
+    text-decoration: underline;
+    
+}
+
+#quotes-section h2{
+    text-decoration: underline;
+}
+
+blockquote{
+    font-style: italic;
+}
+
+form {
+    background-color: grey;
+}
+    
+
+#links-section h2{
+    text-decoration: underline;
+}
+
+footer{
+    margin-bottom: 100px;
+    margin-top: 50px;
+}
+
+
+
+
